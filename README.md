@@ -49,9 +49,7 @@ day18/
 ├── package.json
 └── README.md
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -69,18 +67,14 @@ Edit
 
 ###  Step 1: Clone the Repo
 
-```bash
 git clone https://github.com/shreyas250825/day18.git
 cd day18
  Step 2: Install Dependencies
 bash
-Copy
-Edit
 npm install
  Step 3: Run App + Backend Together
 bash
-Copy
-Edit
+
 npm run dev
 This starts:
 
