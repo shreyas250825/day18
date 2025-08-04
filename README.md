@@ -1,4 +1,4 @@
-# 📘 React Query Assignment — Day 18
+# 📘 React Query Assignment — Day 16
 
 This repository contains solutions to three interactive tasks using **React Query (TanStack)**, **custom hooks**, **optimistic UI updates**, and **JSON Server** as a mock backend.
 
